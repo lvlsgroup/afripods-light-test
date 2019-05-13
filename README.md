@@ -8,6 +8,9 @@ You should create a simple web application that shows metadata for episodes and 
 
 The landing pages should be shown when the user clicks on a list item.
 
+## Submission
+Zip the repository containing your solution and submit it via email to the recruiter that contacted you.
+
 ### Metadata 
 #### List items
 A podcast item needs to have:
@@ -46,10 +49,13 @@ It cointains two lists. One with podcasts (6 items) and one with episodes (4 ite
 *Remark* - Episode `duration` is in seconds.
 
 ## Requirements
-- If nothing else is specified you´re free to solve the problem in `Vue`, `React` or `Angular`
-- We prefer that you´re setting up a backend (e.g. node or java) where you are storing and requesting the data. 
+- If nothing else is specified you're free to solve the problem in `Vue`, `React` or `Angular`
 - It needs to look great in both phones and desktop
 - The lists must support a lot of items.
-- Do not make the task harder than it is. It can be solved in one or two hours.
-- You do not need to write tests (but if you want to write tests, you are free to do it)
+- Do not make the task harder than it is. It should be solved in a couple of hours.
+- Document how to run your application and anything else that you feel is important.
+
+## Optional
+- If you'd like you can set up a backend (e.g. node or java) where you are storing and requesting the data.
+- Write tests
 
