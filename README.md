@@ -40,6 +40,7 @@ It needs to have:
 
 ## Design 
 You are free to design the app in the way you want.
+You should however spend some time on the design and css in a way that reflects your ambition and skillset.   
 
 ## Data location
 The data is located in:
@@ -54,6 +55,7 @@ It cointains two lists. One with podcasts (6 items) and one with episodes (4 ite
 - The lists must support a lot of items.
 - Do not make the task harder than it is. It should be solved in a couple of hours.
 - Document how to run your application and anything else that you feel is important.
+- The file structure of your project should be scalable 
 
 ## Optional
 - If you'd like you can set up a backend (e.g. node or java) where you are storing and requesting the data.
